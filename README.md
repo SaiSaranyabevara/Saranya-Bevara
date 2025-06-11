@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m an enthusiastic student passionate about bui
 - Fullstack Web Development
 - HTML, CSS, JavaScript
 - React.js
-- (Add your backend stack here: Node.js, Express, MongoDB, etc. if applicable!)
+- Node.js, Express, MongoDB
 
 ---
 
